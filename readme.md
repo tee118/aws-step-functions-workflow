@@ -45,6 +45,6 @@ Begin by creating two Lambda functions:
 ## Step 6: Executing State Machine
 - Execute the state machine with test inputs to observe outcomes.
 
-[read more: Part 1](https://teebaba.hashnode.dev/conditional-workflow-state-machine-part-1)  |  [Part 2](https://teebaba.hashnode.dev/)conditional-workflow-state-machine-part-2
+[read more: Part 1](https://teebaba.hashnode.dev/conditional-workflow-state-machine-part-1)  |  [Part 2](https://teebaba.hashnode.dev/conditional-workflow-state-machine-part-2)
 
 ------
